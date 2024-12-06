@@ -1,0 +1,5 @@
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/Laboratoare/labcorect/cmake-build-debug/CMakeFiles/labcorect.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/Laboratoare/labcorect/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/Laboratoare/labcorect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/Laboratoare/labcorect/cmake-build-debug/CMakeFiles/labcorect_autogen_timestamp_deps.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/Laboratoare/labcorect/cmake-build-debug/CMakeFiles/labcorect_autogen.dir

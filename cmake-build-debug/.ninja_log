@@ -1,0 +1,18 @@
+# ninja log v6
+24	258	7552035758972231	labcorect_autogen/timestamp	9ad74b5a344fe89a
+24	258	7552035758972231	labcorect_autogen/mocs_compilation.cpp	9ad74b5a344fe89a
+24	258	7552035758972231	C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/Laboratoare/labcorect/cmake-build-debug/labcorect_autogen/timestamp	9ad74b5a344fe89a
+24	258	7552035758972231	C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/Laboratoare/labcorect/cmake-build-debug/labcorect_autogen/mocs_compilation.cpp	9ad74b5a344fe89a
+259	326	7552035761323346	CMakeFiles/labcorect.dir/labcorect_autogen/mocs_compilation.cpp.obj	d15c97e53d416ccd
+272	1092	7552035761453258	CMakeFiles/labcorect.dir/domain.cpp.obj	c2ca00ef9f608342
+290	1148	7552035761627217	CMakeFiles/labcorect.dir/validate.cpp.obj	61ad83b3fcf421a0
+276	1302	7552035761493173	CMakeFiles/labcorect.dir/repo.cpp.obj	9eddb5033556e628
+299	1586	7552035761719241	CMakeFiles/labcorect.dir/cos.cpp.obj	cb3254021ba271f0
+305	1625	7552035761765836	CMakeFiles/labcorect.dir/export.cpp.obj	195a9d4e39262070
+285	1673	7552035761583193	CMakeFiles/labcorect.dir/ui.cpp.obj	696aaec75baf5c6d
+294	1786	7552035761673185	CMakeFiles/labcorect.dir/teste.cpp.obj	613f59570d22a253
+281	2100	7552035761533177	CMakeFiles/labcorect.dir/service.cpp.obj	353b89a0c2f69e55
+264	3157	7552035761373189	CMakeFiles/labcorect.dir/main.cpp.obj	b9826ffc8370f8ec
+310	3521	7552035761827641	CMakeFiles/labcorect.dir/gui_mw.cpp.obj	8d29d6dc2c2f9afa
+268	3565	7552035761413182	CMakeFiles/labcorect.dir/gui.cpp.obj	281a46d3a38d8815
+3566	4289	7552035794382062	labcorect.exe	63f067a87d87754f
